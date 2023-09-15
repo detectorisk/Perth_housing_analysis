@@ -1,0 +1,6 @@
+# perth_housing_prices
+Perth house price prediction (Using supervised and unsupervised learning)
+
+Since I could not find a good enough dataset pertaining to UK houses, I sought the housing dataset of Perth, Australia. Perth, the fourth most populated city in Australia, is perched beside the Swan River. A sunny town where both birds and people flock in the summer to catch the right amount of tan. However, all is not swell at Perth. In a city with a population of nearly 2 million, the number of houses available to rent this year is less than 2000. This plummet marks a 12 year low for the rapidly transforming city (Hamish 2022). This has meant a skyrocket in median rent and increased concerns over housing this upcoming winter (just as people in the UK are reeling with energy bills expected to rise and housing demand falling short of being met). 
+
+My aim through the is to see trends and various classifications in this housing data and see what methods can be established to be useful to analyze prices and various other features of housing. This could hopefully help future policymakers and budding data planners to derive some insights on what factors drive up prices, and what features to look for to classify neighborhoods and houses.
